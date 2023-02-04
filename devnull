@@ -1,0 +1,4 @@
+arvind'
+echo -e "this is arvind \t gaur \t username"
+echo -e "this is arvind \v gaur \v username"
+echo -e "this is arvind \n gaur \n username"
